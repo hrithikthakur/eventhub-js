@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Product+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --labels: "Product Sans";
+  --button-btn: Roboto;
+
+  /* font sizes */
+  --labels-size: 10px;
+  --body-text-size: 16px;
+  --sub-paragraph-size: 12px;
+  --font-size-21xl: 40px;
+  --sub-heading-size: 18px;
+  --big-heading-size: 36px;
+  --button-btn-size: 14px;
+  --heading-size: 24px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --background-grey: #f8f8fa;
+  --color-whitesmoke-100: #f2f2f2;
+  --color-whitesmoke-200: rgba(242, 242, 242, 0.2);
+  --white: #fff;
+  --color-deepskyblue-100: #2cacf4;
+  --grey: #687c94;
+  --color-palevioletred: #e285b6;
+  --gray-600: #7e7e7e;
+  --black: #131315;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-mini: 15px;
+  --padding-21xl: 40px;
+  --padding-3xs: 10px;
+  --padding-6xl: 25px;
+  --padding-19xl: 38px;
+  --padding-7xl: 26px;
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-2xl: 21px;
+}
